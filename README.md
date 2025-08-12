@@ -1,4 +1,4 @@
-# Dissertation Project: Social Media-Based Misinformation Detection Using Machine Learning Models
+Social Media-Based Misinformation Detection Using Machine Learning Models
 
 ## Repository Overview
 
@@ -15,7 +15,7 @@ This folder contains all English (EN) language related files including:
 - Each notebook contains markdown cells describing its purpose and the associated CSV files it requires.
 
 ### 2. `7150CEM_SAIANIRUDH_TR_DATA_CODE`  
-This folder contains all translated (TR) or related dataset files including:  
+This folder contains all turkish (TR) language related dataset files including:  
 - Jupyter notebooks for experiments involving translated or alternative language data.  
 - Corresponding CSV datasets utilized in these notebooks.  
 - Documentation within notebooks clarifies the usage of each file.
@@ -24,12 +24,11 @@ This folder contains all translated (TR) or related dataset files including:
 
 ## How to Run the Notebooks
 
-- Open the relevant folder based on the dataset (EN or TR).  
-- Open the notebook(s) of interest in Jupyter Notebook, JupyterLab, or Google Colab.  
-- Make sure the CSV files referenced in the notebook are present in the same folder or update the file paths accordingly in the code cells.  
-- Follow the instructions and comments within the notebooks for executing the code step-by-step.
-
----
+- Open the relevant folder based on the dataset (EN or TR).
+- Before running any English (EN) notebook, ensure all the required CSV files are placed in the same folder as the notebook. This is necessary so the code can properly locate and load the data files.
+- For example, if you are running the notebook from the folder 7150CEM_SAIANIRUDH_EN_DATA_CODE in Google Colab, you must upload all related CSV and notebook files to the same Colab workspace folder before    executing the code.
+- Open the notebooks of interest in Jupyter Notebook, JupyterLab, or Google Colab.
+- If you move the CSV files elsewhere, update the file paths in the notebook code accordingly.
 
 ## Notes
 
