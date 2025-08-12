@@ -6,6 +6,12 @@ This repository contains the code and datasets developed as part of my dissertat
 
 ---
 
+## Dataset
+
+All datasets required for running the notebooks are included within the repository folders alongside the respective code files.
+
+--
+
 ## Folder Structure and Contents
 
 ### 1. `7150CEM_SAIANIRUDH_EN_DATA_CODE`  
